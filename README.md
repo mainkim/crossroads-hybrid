@@ -3,6 +3,11 @@ A student considering a semester away can read how three people approached work 
 
 [Open the public web app](https://hackathon-b4455.web.app). No sign-in is required.
 
+![Crossroads opening screen](docs/entrance.jpg)
+
+## Verified in the submitted build
+On the public site, the semester-off walkthrough returned a live Firebase cloud response with App Check enforced. At 390 px and 1280 px, the notebook retained its decision after reload and exported a calendar event. Our clean Chrome test reported local inference unavailable; the device-only path displayed a recovery message and kept the editable question. A successful on-device response still needs a compatible Chrome installation.
+
 ## Run the web app
 Use Node 22.12+ and desktop Chrome. From this directory run `npm ci`, then `npm run dev` and open the printed local URL. The archive and notebook work immediately. For a production build run `npm test` then `npm run build`. Serve the dist directory over HTTPS.
 
