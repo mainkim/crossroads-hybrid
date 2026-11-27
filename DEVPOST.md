@@ -3,6 +3,8 @@
 
 **Platform** — Web (Chrome).
 
+[Try Crossroads](https://hackathon-b4455.web.app) · [Public source code](https://github.com/mainkim/crossroads-hybrid)
+
 ### Inspiration
 “Should I take a semester off?” can mean “Can I afford to stay?” or “Will I lose the one class I love?” Students often arrive at a meeting with the first question when the second would get them a more useful answer.
 

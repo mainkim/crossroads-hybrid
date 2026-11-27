@@ -1,6 +1,8 @@
 # Crossroads
 A student considering a semester away can read how three people approached work and study, then leave with one question to ask the registrar and a date to revisit the decision.
 
+[Open the public web app](https://hackathon-b4455.web.app). No sign-in is required.
+
 ## Run the web app
 Use Node 22.12+ and desktop Chrome. From this directory run `npm ci`, then `npm run dev` and open the printed local URL. The archive and notebook work immediately. For a production build run `npm test` then `npm run build`. Serve the dist directory over HTTPS.
 
